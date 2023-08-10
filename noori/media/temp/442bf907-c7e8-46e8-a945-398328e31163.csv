@@ -1,0 +1,11 @@
+,label,user_count,factor_count,income,user_percentage,factor_percentage,income_percentage
+0,کل مشتریان,24,3.89,658766.67,,,
+1,Promising,6,6.0,3089200.0,0.25,0.17,0.52
+2,Potantial loyalist,1,2.0,67500.0,0.04,0.06,0.01
+3,Hibernating,1,1.0,135000.0,0.04,0.03,0.02
+4,Loyal,2,6.0,521800.0,0.08,0.17,0.09
+5,About to sleep,4,4.0,321200.0,0.17,0.11,0.05
+6,Champions,3,7.0,757400.0,0.12,0.2,0.13
+7,New Customer,2,2.0,168300.0,0.08,0.06,0.03
+8,At risk,2,4.0,675000.0,0.08,0.11,0.11
+9,Lost,3,3.0,193500.0,0.12,0.09,0.03
